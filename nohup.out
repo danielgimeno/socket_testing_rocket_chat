@@ -1,0 +1,180 @@
+{ status: 'success',
+  data: 
+   { userId: 'evQaQuvQdQ7B4d7Hs',
+     authToken: 'Y6Izm1usUX6w8u0OU3RgaciBYcCGous8zvbawKFqWKt',
+     me: 
+      { _id: 'evQaQuvQdQ7B4d7Hs',
+        name: 'sergio',
+        emails: [Array],
+        status: 'away',
+        statusConnection: 'away',
+        username: 'sergio',
+        utcOffset: 2,
+        active: true,
+        roles: [Array],
+        settings: [Object] } } }
+aunthentication successful
+[ { name: 'allaudin', email: 'a.dharmadhikar@medlabmg.com' },
+  { name: 'allaudin', email: 'a.dharmadhikar123@medlabmg.com' } ]
+updated
+{ users: 
+   { evQaQuvQdQ7B4d7Hs: { _id: 'evQaQuvQdQ7B4d7Hs', emails: [Array], username: 'sergio' } } }
+called function, result: 
+{ rid: 'GENERAL',
+  msg: 'Hola Amigos, soy un script!',
+  ts: 2018-07-02T15:03:44.874Z,
+  u: { _id: 'evQaQuvQdQ7B4d7Hs', username: 'sergio', name: 'sergio' },
+  mentions: [],
+  channels: [],
+  _updatedAt: 2018-07-02T15:03:44.876Z,
+  _id: 'EgkgJApxxwKbsvQiz' }
+{ status: 'success',
+  data: 
+   { userId: 'evQaQuvQdQ7B4d7Hs',
+     authToken: 'IL6L1e1QMIroTxztcuyvgxK3NlIAftNkrdQO_rM2cds',
+     me: 
+      { _id: 'evQaQuvQdQ7B4d7Hs',
+        name: 'sergio',
+        emails: [Array],
+        status: 'online',
+        statusConnection: 'online',
+        username: 'sergio',
+        utcOffset: 2,
+        active: true,
+        roles: [Array],
+        settings: [Object] } } }
+{ status: 'success',
+  data: 
+   { userId: 'evQaQuvQdQ7B4d7Hs',
+     authToken: '45clcMF-OKWjkqhjiz89_M1sinxgqI7GWp-hX2amHID',
+     me: 
+      { _id: 'evQaQuvQdQ7B4d7Hs',
+        name: 'sergio',
+        emails: [Array],
+        status: 'online',
+        statusConnection: 'online',
+        username: 'sergio',
+        utcOffset: 2,
+        active: true,
+        roles: [Array],
+        settings: [Object] } } }
+aunthentication successful
+[ { name: 'allaudin', email: 'a.dharmadhikar@medlabmg.com' },
+  { name: 'allaudin', email: 'a.dharmadhikar123@medlabmg.com' } ]
+aunthentication successful
+[ { name: 'allaudin', email: 'a.dharmadhikar@medlabmg.com' },
+  { name: 'allaudin', email: 'a.dharmadhikar123@medlabmg.com' } ]
+updated
+{ users: 
+   { evQaQuvQdQ7B4d7Hs: { _id: 'evQaQuvQdQ7B4d7Hs', emails: [Array], username: 'sergio' } } }
+called function, result: 
+{ rid: 'GENERAL',
+  msg: 'Hola Amigos, soy un script!',
+  ts: 2018-07-02T15:06:24.634Z,
+  u: { _id: 'evQaQuvQdQ7B4d7Hs', username: 'sergio', name: 'sergio' },
+  mentions: [],
+  channels: [],
+  _updatedAt: 2018-07-02T15:06:24.640Z,
+  _id: '4mzYy99FBaG8Te5xh' }
+updated
+{ users: 
+   { evQaQuvQdQ7B4d7Hs: { _id: 'evQaQuvQdQ7B4d7Hs', emails: [Array], username: 'sergio' } } }
+called function, result: 
+{ rid: 'GENERAL',
+  msg: 'Hola Amigos, soy un script!',
+  ts: 2018-07-02T15:06:24.651Z,
+  u: { _id: 'evQaQuvQdQ7B4d7Hs', username: 'sergio', name: 'sergio' },
+  mentions: [],
+  channels: [],
+  _updatedAt: 2018-07-02T15:06:24.652Z,
+  _id: 'pXxDoWAeTZYgfKwqG' }
+{ status: 'success',
+  data: 
+   { userId: 'evQaQuvQdQ7B4d7Hs',
+     authToken: 'IYYm1YIRXHPqBbOyUV_P3juG02Bsdo1QGG43c4uP3z7',
+     me: 
+      { _id: 'evQaQuvQdQ7B4d7Hs',
+        name: 'sergio',
+        emails: [Array],
+        status: 'online',
+        statusConnection: 'online',
+        username: 'sergio',
+        utcOffset: 2,
+        active: true,
+        roles: [Array],
+        settings: [Object] } } }
+aunthentication successful
+[ { name: 'allaudin', email: 'a.dharmadhikar@medlabmg.com' },
+  { name: 'allaudin', email: 'a.dharmadhikar123@medlabmg.com' } ]
+updated
+{ users: 
+   { evQaQuvQdQ7B4d7Hs: { _id: 'evQaQuvQdQ7B4d7Hs', emails: [Array], username: 'sergio' } } }
+called function, result: 
+{ rid: 'GENERAL',
+  msg: 'Hola Amigos, soy un script!',
+  ts: 2018-07-02T15:08:33.319Z,
+  u: { _id: 'evQaQuvQdQ7B4d7Hs', username: 'sergio', name: 'sergio' },
+  mentions: [],
+  channels: [],
+  _updatedAt: 2018-07-02T15:08:33.322Z,
+  _id: 'saAWDv7WmmupmrJEq' }
+{ status: 'success',
+  data: 
+   { userId: 'evQaQuvQdQ7B4d7Hs',
+     authToken: 'Mz6_BqbUGgowsPn5vP7smMYhb-wFxjNfkF9Fee_6fKj',
+     me: 
+      { _id: 'evQaQuvQdQ7B4d7Hs',
+        name: 'sergio',
+        emails: [Array],
+        status: 'online',
+        statusConnection: 'online',
+        username: 'sergio',
+        utcOffset: 2,
+        active: true,
+        roles: [Array],
+        settings: [Object] } } }
+{ status: 'success',
+  data: 
+   { userId: 'evQaQuvQdQ7B4d7Hs',
+     authToken: '77tL7qMx9w-veg7n0dxwGhjXI5GdHP5ZJaluBNYIbpX',
+     me: 
+      { _id: 'evQaQuvQdQ7B4d7Hs',
+        name: 'sergio',
+        emails: [Array],
+        status: 'online',
+        statusConnection: 'online',
+        username: 'sergio',
+        utcOffset: 2,
+        active: true,
+        roles: [Array],
+        settings: [Object] } } }
+aunthentication successful
+[ { name: 'allaudin', email: 'a.dharmadhikar@medlabmg.com' },
+  { name: 'allaudin', email: 'a.dharmadhikar123@medlabmg.com' } ]
+aunthentication successful
+[ { name: 'allaudin', email: 'a.dharmadhikar@medlabmg.com' },
+  { name: 'allaudin', email: 'a.dharmadhikar123@medlabmg.com' } ]
+updated
+{ users: 
+   { evQaQuvQdQ7B4d7Hs: { _id: 'evQaQuvQdQ7B4d7Hs', emails: [Array], username: 'sergio' } } }
+called function, result: 
+{ rid: 'GENERAL',
+  msg: 'Hola Amigos, soy un script!',
+  ts: 2018-07-02T15:52:29.895Z,
+  u: { _id: 'evQaQuvQdQ7B4d7Hs', username: 'sergio', name: 'sergio' },
+  mentions: [],
+  channels: [],
+  _updatedAt: 2018-07-02T15:52:29.900Z,
+  _id: '8Bw87KudJxziDLGAG' }
+updated
+{ users: 
+   { evQaQuvQdQ7B4d7Hs: { _id: 'evQaQuvQdQ7B4d7Hs', emails: [Array], username: 'sergio' } } }
+called function, result: 
+{ rid: 'GENERAL',
+  msg: 'Hola Amigos, soy un script!',
+  ts: 2018-07-02T15:52:29.922Z,
+  u: { _id: 'evQaQuvQdQ7B4d7Hs', username: 'sergio', name: 'sergio' },
+  mentions: [],
+  channels: [],
+  _updatedAt: 2018-07-02T15:52:29.923Z,
+  _id: 'MZTN7JLokyigtKKpD' }

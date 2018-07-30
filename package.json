@@ -1,0 +1,21 @@
+{
+  "name": "socket-testing",
+  "version": "1.0.0",
+  "description": "node application to test sockets",
+  "main": "socket-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@ticketing.medlab.email:medlab/socket-testing.git"
+  },
+  "author": "anshul dharmadhikari",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^3.6.0",
+    "ddp": "^0.12.1",
+    "ddp-login": "^1.0.10",
+    "request": "^2.87.0"
+  }
+}
